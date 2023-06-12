@@ -1,0 +1,47 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.small-image {
+    width: 250px;
+    height: " ";
+}
+
+header {
+    background-color:rgba(231, 199, 18, 0.84);
+    padding: 20px;
+
+
+}
+
+nav ul {
+    list-style-type:square;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration:rgb(0, 0, 0);
+    color: #161414;
+}
+
+main {
+    padding: 15px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color:rgb(21, 20, 18);
+}
+
